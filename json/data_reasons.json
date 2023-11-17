@@ -1,0 +1,22 @@
+[
+    {
+        "reason": "holidays",
+        "percentage": 51,
+        "desc": "The main reason people travel is for holidays : almost one in two people travels for the pleasure of going on holidays."
+    },
+    {
+        "reason": "family",
+        "percentage": 27,
+        "desc": "The second main reason people travel is to visit family (it's nearly a quarter!)."
+    },
+    {
+        "reason": "business",
+        "percentage": 15,
+        "desc": "People also travel for work reasons : to work abroad or to set up their own business."
+    },
+    {
+        "reason": "other",
+        "percentage": 7,
+        "desc": "There are also many other reasons : 7% of people travel to eat, meet people, explore cultures"
+    }
+]

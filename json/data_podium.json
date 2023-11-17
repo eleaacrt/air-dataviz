@@ -1,0 +1,189 @@
+[
+    {
+        "year": 2019,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 31.5
+            },
+            "top2": {
+                "city": "Bangkok",
+                "travellers": 27.1
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 21.5
+            }
+        }
+    },
+    {
+        "year": 2018,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 30.5
+            },
+            "top2": {
+                "city": "Bangkok",
+                "travellers": 26.1
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 21.2
+            }
+        }
+    },
+    {
+        "year": 2017,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 29.7
+            },
+            "top2": {
+                "city": "Bangkok",
+                "travellers": 23.6
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 20.7
+            }
+        }
+    },
+    {
+        "year": 2016,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 25.8
+            },
+            "top2": {
+                "city": "Bangkok",
+                "travellers": 23
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 19.7
+            }
+        }
+    },
+    {
+        "year": 2015,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 26.5
+            },
+            "top2": {
+                "city": "Bangkok",
+                "travellers": 21
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 19
+            }
+        }
+    },
+    {
+        "year": 2014,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 27.6
+            },
+            "top2": {
+                "city": "Bangkok",
+                "travellers": 18.6
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 17.4
+            }
+        }
+    },
+    {
+        "year": 2013,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 26
+            },
+            "top2": {
+                "city": "Singapore",
+                "travellers": 17.2
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 16.9
+            }
+        }
+    },
+    {
+        "year": 2012,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 25.3
+            },
+            "top2": {
+                "city": "Singapore",
+                "travellers": 22.2
+            },
+            "top3": {
+                "city": "Bangkok",
+                "travellers": 17.2
+            }
+        }
+    },
+    {
+        "year": 2011,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 23.7
+            },
+            "top2": {
+                "city": "Singapore",
+                "travellers": 21.2
+            },
+            "top3": {
+                "city": "Bangkok",
+                "travellers": 15.7
+            }
+        }
+    },
+    {
+        "year": 2010,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 21.8
+            },
+            "top2": {
+                "city": "Singapore",
+                "travellers": 19.8
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 15
+            }
+        }
+    },
+    {
+        "year": 2009,
+        "top": {
+            "top1": {
+                "city": "Hong Kong",
+                "travellers": 19.6
+            },
+            "top2": {
+                "city": "Singapore",
+                "travellers": 18
+            },
+            "top3": {
+                "city": "London",
+                "travellers": 14.6
+            }
+        }
+    }
+]
