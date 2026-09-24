@@ -15,3 +15,10 @@
 - page REASON TO TRAVEL avec affichage original sous forme de petits personnages
 
 ⭐ **DÉFI TECHNIQUE :** Le podium des villes les plus visitées devait afficher des données différentes selon l'année sélectionnée (2009 à 2019), ce qui demandait de structurer les données sources et de gérer proprement les transitions visuelles entre les jeux de données sans que l'interface ne se recharge brutalement.
+
+---
+
+<img width="2553" height="1262" alt="image" src="https://github.com/user-attachments/assets/79b45629-36a1-4445-bb3c-e146ba1bef80" />
+<img width="2550" height="1257" alt="image" src="https://github.com/user-attachments/assets/c713a6e5-0a82-4bda-897c-2ef7adde8480" />
+<img width="2554" height="1264" alt="image" src="https://github.com/user-attachments/assets/ddd9d547-5556-41f4-b12d-072102610308" />
+
